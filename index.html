@@ -568,8 +568,13 @@
       max-height: 0;
       overflow: hidden;
       transition: max-height .35s ease;
+      opacity: 0;
     }
-    .faq-item.open .faq-answer { max-height: 500px; }
+    .faq-item.open .faq-answer { 
+      max-height: 500px; 
+      opacity: 1;
+      transition: max-height .35s ease, opacity .35s ease;
+    }
     .faq-answer-inner {
       padding: 0 1.5rem;
       font-size: .9rem;
