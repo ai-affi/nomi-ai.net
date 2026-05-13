@@ -494,6 +494,7 @@
     /* ===========================
        HOW IT WORKS
     =========================== */
+    #how { background: var(--bg); }
     .steps-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -507,7 +508,7 @@
       border: 1px solid var(--border);
       border-radius: var(--radius);
       position: relative;
-      transition: all var(--transition);
+      transition: border-color var(--transition), transform var(--transition), box-shadow var(--transition);
     }
     .step-card:hover {
       border-color: var(--primary);
@@ -524,9 +525,9 @@
       margin-bottom: .75rem;
       display: block;
     }
-    .step-title { margin-bottom: .75rem; }
+    .step-title { margin-bottom: .75rem; color: var(--text); }
     .step-text { font-size: .9rem; color: var(--text-muted); margin: 0; }
-    .how-cta { text-align: center; }
+    .how-cta { text-align: center; margin-top: 2rem; }
 
     /* ===========================
        FAQ
@@ -538,14 +539,11 @@
       border-radius: var(--radius);
       margin-bottom: 1rem;
       overflow: hidden;
-      transition: all var(--transition);
       background: var(--card-bg);
+      transition: border-color var(--transition), box-shadow var(--transition);
     }
-    .faq-item:hover { 
-      border-color: var(--primary);
-      box-shadow: 0 4px 20px rgba(139,92,246,.1);
-    }
-    .faq-item.open {
+    .faq-item:hover { border-color: rgba(139,92,246,.5); }
+    .faq-item.active {
       border-color: var(--primary);
       box-shadow: 0 4px 20px rgba(139,92,246,.1);
     }
@@ -561,17 +559,26 @@
       background: var(--card-bg);
       color: var(--text);
       user-select: none;
+      transition: background var(--transition);
     }
-    .faq-question span { color: var(--primary); font-size: 1.25rem; flex-shrink: 0; transition: transform var(--transition); }
-    .faq-item.open .faq-question span { transform: rotate(45deg); }
+    .faq-question:hover { background: rgba(139,92,246,.05); }
+    .faq-question .faq-icon {
+      color: var(--primary);
+      font-size: 1.25rem;
+      flex-shrink: 0;
+      transition: transform .3s ease;
+      font-weight: 400;
+    }
+    .faq-item.active .faq-question .faq-icon { transform: rotate(45deg); }
     .faq-answer {
       max-height: 0;
       overflow: hidden;
-      transition: max-height .35s ease, opacity .35s ease;
+      transition: max-height .4s ease, opacity .3s ease;
       opacity: 0;
+      background: rgba(0,0,0,.15);
     }
-    .faq-item.open .faq-answer { 
-      max-height: 500px; 
+    .faq-item.active .faq-answer {
+      max-height: 600px;
       opacity: 1;
     }
     .faq-answer-inner {
@@ -580,9 +587,9 @@
       color: var(--text-muted);
       line-height: 1.7;
       border-top: 1px solid transparent;
-      transition: padding .35s ease, border-color .35s ease;
+      transition: padding .4s ease, border-color .4s ease;
     }
-    .faq-item.open .faq-answer-inner {
+    .faq-item.active .faq-answer-inner {
       padding: 1.25rem 1.5rem;
       border-top-color: var(--border);
     }
@@ -615,24 +622,16 @@
       height: 3px;
       background: linear-gradient(90deg, var(--primary), var(--accent));
     }
-    .verdict-box::after {
-      content: '';
-      position: absolute;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
-      background: radial-gradient(circle, rgba(139,92,246,.08) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .verdict-box h2 { margin-bottom: 2rem; }
-    .verdict-box p { max-width: 680px; margin: 0 auto 1.25rem; }
+    .verdict-box h2 { margin-bottom: 2rem; position: relative; z-index: 1; }
+    .verdict-box p { max-width: 680px; margin: 0 auto 1.25rem; position: relative; z-index: 1; }
     .verdict-badges {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: .75rem;
       margin: 2rem 0;
+      position: relative;
+      z-index: 1;
     }
     .verdict-badge {
       background: rgba(139,92,246,.12);
@@ -643,13 +642,15 @@
       font-size: .85rem;
       font-weight: 700;
     }
-    .verdict-box .btn { font-size: 1.1rem; padding: 1rem 2.5rem; margin: .5rem 0; }
+    .verdict-box .btn { font-size: 1.1rem; padding: 1rem 2.5rem; margin: .5rem 0; position: relative; z-index: 1; }
     .affiliate-note {
       font-size: .8rem;
       color: var(--text-muted);
       margin-top: 1.5rem;
       padding-top: 1.5rem;
       border-top: 1px solid var(--border);
+      position: relative;
+      z-index: 1;
     }
 
     /* ===========================
@@ -1038,10 +1039,10 @@
     /* ── FAQ ────────────────────────────────────────────────── */
     const faq = c.faq;
     const faqItems = faq.items.map((item, i) => `
-      <div class="faq-item" id="faq-item-${i}">
-        <div class="faq-question" data-index="${i}">
-          ${item.question}
-          <span>+</span>
+      <div class="faq-item" data-faq="${i}">
+        <div class="faq-question">
+          <span class="faq-q-text">${item.question}</span>
+          <span class="faq-icon">+</span>
         </div>
         <div class="faq-answer">
           <div class="faq-answer-inner">${item.answer}</div>
@@ -1053,20 +1054,31 @@
       </div>
       <div class="faq-list">${faqItems}</div>`;
 
-    // FAQ accordion behaviour
-    console.log('FAQ items found:', document.querySelectorAll('.faq-question').length);
-    document.querySelectorAll('.faq-question').forEach((q, i) => {
-      q.addEventListener('click', (e) => {
-        e.stopPropagation();
-        console.log('FAQ clicked:', i);
-        const item = q.closest('.faq-item');
-        const isOpen = item.classList.contains('open');
-        // Ferme tous les items ouverts
-        document.querySelectorAll('.faq-item.open').forEach(o => o.classList.remove('open'));
-        // Ouvre l'item cliqué s'il était fermé
-        if (!isOpen) item.classList.add('open');
+    // FAQ accordion — robust toggle
+    (function initFaq() {
+      const items = document.querySelectorAll('.faq-item');
+      if (!items.length) return;
+
+      items.forEach(item => {
+        const question = item.querySelector('.faq-question');
+        if (!question) return;
+
+        question.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+
+          const isActive = item.classList.contains('active');
+
+          // Close all items
+          items.forEach(it => it.classList.remove('active'));
+
+          // Open clicked item if it was closed
+          if (!isActive) {
+            item.classList.add('active');
+          }
+        });
       });
-    });
+    })();
 
     /* ── FINAL VERDICT ──────────────────────────────────────── */
     const verd = c.verdict;
