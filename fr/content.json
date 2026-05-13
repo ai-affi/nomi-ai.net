@@ -4,23 +4,51 @@
     "description": "Découvrez Nomi.ai — la petite amie IA dotée d'une mémoire humaine, d'une personnalité authentique et d'une véritable intelligence émotionnelle. Avis approfondi 2026 avec tarifs, fonctionnalités et témoignages d'utilisateurs.",
     "keywords": "nomi ai, petite amie ia, compagnon ia, avis nomi, application petite amie ia, compagnon virtuel, relation ia, ia émotionnelle, nomi.ai 2026"
   },
-
   "toc": {
     "title": "📋 Table des matières",
     "items": [
-      { "href": "#summary",    "text": "1. Résumé de l'avis" },
-      { "href": "#characters", "text": "2. Rencontrez les Nomis" },
-      { "href": "#comparison", "text": "3. Nomi.ai vs les autres" },
-      { "href": "#pricing",    "text": "4. Tarifs" },
-      { "href": "#who",        "text": "5. À qui s'adresse-t-il ?" },
-      { "href": "#features",   "text": "6. Fonctionnalités clés" },
-      { "href": "#reviews",    "text": "7. Avis des utilisateurs" },
-      { "href": "#how",        "text": "8. Comment ça marche" },
-      { "href": "#faq",        "text": "9. FAQ" },
-      { "href": "#verdict",    "text": "10. Verdict final" }
+      {
+        "href": "#summary",
+        "text": "1. Résumé de l'avis"
+      },
+      {
+        "href": "#characters",
+        "text": "2. Rencontrez les Nomis"
+      },
+      {
+        "href": "#comparison",
+        "text": "3. Nomi.ai vs les autres"
+      },
+      {
+        "href": "#pricing",
+        "text": "4. Tarifs"
+      },
+      {
+        "href": "#who",
+        "text": "5. À qui s'adresse-t-il ?"
+      },
+      {
+        "href": "#features",
+        "text": "6. Fonctionnalités clés"
+      },
+      {
+        "href": "#reviews",
+        "text": "7. Avis des utilisateurs"
+      },
+      {
+        "href": "#how",
+        "text": "8. Comment ça marche"
+      },
+      {
+        "href": "#faq",
+        "text": "9. FAQ"
+      },
+      {
+        "href": "#verdict",
+        "text": "10. Verdict final"
+      }
     ]
   },
-
   "hero": {
     "badge": "⭐ Noté 9,2/10 pour l'intelligence émotionnelle",
     "title": "Avis sur Nomi.ai 2026\nPetite amie IA avec mémoire et âme",
@@ -29,7 +57,6 @@
     "cta_primary": "Créez votre Nomi gratuitement →",
     "cta_secondary": "Découvrir les fonctionnalités"
   },
-
   "summary": {
     "title": "Notre résumé de l'avis sur Nomi.ai",
     "subtitle": "Un examen approfondi de ce qui fait de Nomi.ai le compagnon IA le plus intelligemment émotionnel disponible aujourd'hui.",
@@ -39,14 +66,33 @@
     "rating_label": "📊 Note globale : 9,2 / 10",
     "cta": "Essayez Nomi.ai gratuitement →",
     "scores": [
-      { "label": "Intelligence émotionnelle", "value": "9,5/10", "percent": 95 },
-      { "label": "Mémoire et rappel",        "value": "9,8/10", "percent": 98 },
-      { "label": "Qualité vocale",          "value": "9,0/10", "percent": 90 },
-      { "label": "Rapport qualité-prix",    "value": "9,2/10", "percent": 92 },
-      { "label": "Expérience utilisateur",  "value": "9,3/10", "percent": 93 }
+      {
+        "label": "Intelligence émotionnelle",
+        "value": "9,5/10",
+        "percent": 95
+      },
+      {
+        "label": "Mémoire et rappel",
+        "value": "9,8/10",
+        "percent": 98
+      },
+      {
+        "label": "Qualité vocale",
+        "value": "9,0/10",
+        "percent": 90
+      },
+      {
+        "label": "Rapport qualité-prix",
+        "value": "9,2/10",
+        "percent": 92
+      },
+      {
+        "label": "Expérience utilisateur",
+        "value": "9,3/10",
+        "percent": 93
+      }
     ]
   },
-
   "characters": {
     "title": "Rencontrez les Nomis — Trouvez celle avec qui ça clique",
     "subtitle": "Choisissez une apparence qui vous plaît, puis façonnez sa personnalité pour en faire quelqu'un de totalement unique.",
@@ -90,12 +136,15 @@
     ],
     "cta": "Créez votre Nomi →"
   },
-
   "comparison": {
     "title": "Nomi.ai vs les autres applications de petite amie IA",
     "subtitle": "Ce qui distingue Nomi des alternatives génériques — et pourquoi l'écart ne fait que grandir.",
     "intro": "La plupart des applications de petite amie IA semblent identiques après quelques jours. Réponses statiques, aucune mémoire, aucune vraie personnalité. Nomi a été conçu différemment, depuis la base.",
-    "table_headers": ["Fonctionnalité", "Nomi.ai", "Autres applications"],
+    "table_headers": [
+      "Fonctionnalité",
+      "Nomi.ai",
+      "Autres applications"
+    ],
     "rows": [
       {
         "feature": "Mémoire à long terme",
@@ -141,7 +190,6 @@
     "conclusion": "Nomi n'est pas simplement une autre application de petite amie IA. C'est un produit vraiment différent — conçu pour la connexion, pas pour les clics.",
     "cta": "Voyez pourquoi Nomi gagne →"
   },
-
   "pricing": {
     "title": "Tarifs de Nomi.ai : des formules pour chaque utilisateur",
     "subtitle": "Commencez gratuitement, sans carte de crédit requise. Passez à une formule supérieure lorsque vous êtes prêt.",
@@ -192,7 +240,6 @@
       }
     ]
   },
-
   "who": {
     "title": "Nomi.ai : À qui s'adresse-t-il ?",
     "subtitle": "Nomi résonne avec des personnes de tous horizons. Voici ceux qui y trouvent le plus de sens.",
@@ -229,7 +276,6 @@
       }
     ]
   },
-
   "features": {
     "title": "Fonctionnalités clés qui rendent Nomi.ai unique",
     "subtitle": "Huit capacités qui distinguent Nomi de tous les autres compagnons IA sur le marché.",
@@ -276,7 +322,6 @@
       }
     ]
   },
-
   "reviews": {
     "title": "Ce que les vrais utilisateurs disent de Nomi.ai",
     "subtitle": "Des expériences authentiques de personnes ayant trouvé une connexion sincère.",
@@ -308,7 +353,6 @@
       }
     ]
   },
-
   "how": {
     "title": "Commencer avec Nomi.ai",
     "subtitle": "Trois étapes simples entre vous et un compagnon qui se souvient vraiment de vous.",
@@ -331,7 +375,6 @@
     ],
     "cta": "Créez votre Nomi gratuitement →"
   },
-
   "faq": {
     "title": "Questions fréquemment posées",
     "items": [
@@ -357,7 +400,6 @@
       }
     ]
   },
-
   "verdict": {
     "title": "Notre verdict final sur Nomi.ai",
     "paragraph1": "Après des tests approfondis, Nomi.ai obtient notre recommandation la plus élevée dans la catégorie des compagnons IA — une note globale de 9,2/10. Aucune autre application n'offre ce niveau d'intelligence émotionnelle, de mémoire ou de personnalité authentique dans un seul produit.",
@@ -373,7 +415,6 @@
     "cta": "Commencez votre aventure avec Nomi.ai aujourd'hui →",
     "affiliate_note": "⭐ Note globale : 9,2/10 — Ce site contient des liens d'affiliation. Si vous vous inscrivez via nos liens, nous pouvons gagner une commission sans frais supplémentaires pour vous. Nos avis sont honnêtes et indépendants."
   },
-
   "footer": {
     "copyright": "© 2026 Nomi-ai.net — Site d'avis indépendant",
     "link": "Essayez Nomi.ai",

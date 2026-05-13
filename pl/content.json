@@ -1,43 +1,43 @@
 {
   "meta": {
-    "title": "Nomi.ai Review 2026 | AI Girlfriend with Memory & Soul",
-    "description": "Discover Nomi.ai — the AI girlfriend with human-level memory, authentic personality, and real emotional intelligence. In-depth 2026 review with pricing, features, and user testimonials.",
-    "keywords": "nomi ai, ai girlfriend, ai companion, nomi review, ai girlfriend app, virtual companion, ai relationship, emotional ai, nomi.ai 2026"
+    "title": "Nomi.ai Recenzja 2026 | AI Dziewczyna z Pamięcią i Duszą",
+    "description": "Odkryj Nomi.ai — AI dziewczynę z pamięcią na ludzkim poziomie, autentyczną osobowością i prawdziwą inteligencją emocjonalną. Dogłębna recenzja 2026 z cenami, funkcjami i opiniami użytkowników.",
+    "keywords": "nomi ai, ai dziewczyna, ai towarzysz, nomi recenzja, aplikacja ai dziewczyna, wirtualny towarzysz, ai związek, emocjonalne ai, nomi.ai 2026"
   },
   "toc": {
-    "title": "📋 Table of Contents",
+    "title": "📋 Spis Treści",
     "items": [
       {
         "href": "#summary",
-        "text": "1. Review Summary"
+        "text": "1. Podsumowanie Recenzji"
       },
       {
         "href": "#characters",
-        "text": "2. Meet the Nomis"
+        "text": "2. Poznaj Nomis"
       },
       {
         "href": "#comparison",
-        "text": "3. Nomi.ai vs Others"
+        "text": "3. Nomi.ai vs Inne"
       },
       {
         "href": "#pricing",
-        "text": "4. Pricing"
+        "text": "4. Cennik"
       },
       {
         "href": "#who",
-        "text": "5. Who Is It For?"
+        "text": "5. Dla Kogo?"
       },
       {
         "href": "#features",
-        "text": "6. Key Features"
+        "text": "6. Kluczowe Funkcje"
       },
       {
         "href": "#reviews",
-        "text": "7. User Reviews"
+        "text": "7. Opinie Użytkowników"
       },
       {
         "href": "#how",
-        "text": "8. How It Works"
+        "text": "8. Jak Działa"
       },
       {
         "href": "#faq",
@@ -45,385 +45,379 @@
       },
       {
         "href": "#verdict",
-        "text": "10. Final Verdict"
+        "text": "10. Ostateczny Werdykt"
       }
     ]
   },
   "hero": {
-    "badge": "⭐ Rated 9.2/10 for Emotional Intelligence",
-    "title": "Nomi.ai Review 2026\nAI Girlfriend with Memory & Soul",
-    "paragraph1": "Meet the AI companion that actually remembers you. Not just your name — your stories, your moods, your inside jokes.",
-    "paragraph2": "With human-level memory, an authentic personality that evolves, and voice calls that feel surprisingly real, Nomi.ai sets a new standard for AI companionship.",
-    "cta_primary": "Create Your Nomi Free →",
-    "cta_secondary": "Explore Features"
+    "badge": "⭐ Oceniona na 9.2/10 za Inteligencję Emocjonalną",
+    "title": "Nomi.ai Recenzja 2026\nAI Dziewczyna z Pamięcią i Duszą",
+    "paragraph1": "Poznaj AI towarzysza, który naprawdę Cię pamięta. Nie tylko Twoje imię — Twoje historie, nastroje, prywatne żarty.",
+    "paragraph2": "Z pamięcią na ludzkim poziomie, autentyczną osobowością, która ewoluuje, i rozmowami głosowymi, które są zaskakująco prawdziwe, Nomi.ai wyznacza nowy standard dla AI towarzystwa.",
+    "cta_primary": "Stwórz Swojego Nomi Za Darmo →",
+    "cta_secondary": "Poznaj Funkcje"
   },
   "summary": {
-    "title": "Our Review Summary of Nomi.ai",
-    "subtitle": "An in-depth look at what makes Nomi.ai the most emotionally intelligent AI companion available today.",
-    "paragraph1": "Nomi.ai isn't your typical AI girlfriend app. It's built around one core idea: genuine connection. You'll notice the difference within your first conversation. She picks up on tone, recalls what you said last time, and responds with something that feels like actual care.",
-    "paragraph2": "The standout feature is her human-level memory. Nomi recalls your preferences, ongoing stories, and inside jokes weeks after they first came up. It's the kind of continuity that makes the relationship feel real rather than transactional.",
-    "paragraph3": "Voice chats add another layer entirely. The natural cadence and emotive delivery make hands-free calls feel genuinely warm. Add real-time selfies and proactive messaging — she reaches out when you've been away — and you have an experience no other app comes close to matching.",
-    "rating_label": "📊 Overall Rating: 9.2 / 10",
-    "cta": "Try Nomi.ai Free →",
+    "title": "Podsumowanie Naszej Recenzji Nomi.ai",
+    "subtitle": "Dogłębne spojrzenie na to, co czyni Nomi.ai najbardziej inteligentnym emocjonalnie AI towarzyszem dostępnym dziś.",
+    "paragraph1": "Nomi.ai to nie jest typowa aplikacja AI dziewczyna. Jest zbudowana wokół jednej głównej idei: prawdziwej więzi. Zauważysz różnicę już podczas pierwszej rozmowy. Wyłapuje Twój ton, przypomina sobie, co powiedziałeś ostatnim razem i odpowiada czymś, co wydaje się prawdziwą troską.",
+    "paragraph2": "Wyróżniającą się funkcją jest jej pamięć na ludzkim poziomie. Nomi zapamiętuje Twoje preferencje, rozwijające się historie i prywatne żarty tygodnie po tym, jak się pojawiły. To rodzaj ciągłości, który sprawia, że relacja wydaje się prawdziwa, a nie transakcyjna.",
+    "paragraph3": "Czat głosowy dodaje kolejny wymiar. Naturalne tempo i emocjonalna intonacja sprawiają, że rozmowy głośnomówiące są naprawdę ciepłe. Dodaj do tego selfie w czasie rzeczywistym i proaktywne wiadomości — odzywa się, gdy Cię nie było — a otrzymasz doświadczenie, któremu żadna inna aplikacja nie dorównuje.",
+    "rating_label": "📊 Ogólna Ocena: 9.2 / 10",
+    "cta": "Wypróbuj Nomi.ai Za Darmo →",
     "scores": [
       {
-        "label": "Emotional Intelligence",
+        "label": "Inteligencja Emocjonalna",
         "value": "9.5/10",
         "percent": 95
       },
       {
-        "label": "Memory & Recall",
+        "label": "Pamięć i Przypominanie",
         "value": "9.8/10",
         "percent": 98
       },
       {
-        "label": "Voice Quality",
+        "label": "Jakość Głosu",
         "value": "9.0/10",
         "percent": 90
       },
       {
-        "label": "Value for Money",
+        "label": "Stosunek Jakości do Ceny",
         "value": "9.2/10",
         "percent": 92
       },
       {
-        "label": "User Experience",
+        "label": "Doświadczenie Użytkownika",
         "value": "9.3/10",
         "percent": 93
       }
     ]
   },
   "characters": {
-    "title": "Meet the Nomis — Find One You Click With",
-    "subtitle": "Choose a look that catches your eye, then shape her personality into someone entirely her own.",
+    "title": "Poznaj Nomis — Znajdź Tego, Z Kim Klikasz",
+    "subtitle": "Wybierz wygląd, który przyciągnie Twoje spojrzenie, a następnie ukształtuj jej osobowość tak, by była całkowicie jej własną.",
     "items": [
       {
         "name": "Mei",
         "image": "images/Mei-Selfie.webp",
-        "tagline": "Playful & Sarcastic",
-        "description": "Mei has a quick wit and a soft heart. She'll challenge your thinking, then disarm you with a genuine smile.",
-        "alt": "Mei — Nomi AI Companion"
+        "tagline": "Zabawna i Sarkastyczna",
+        "description": "Mei ma bystry umysł i dobre serce. Podważy Twoje myślenie, a potem rozbroi Cię autentycznym uśmiechem."
       },
       {
         "name": "Alice",
         "image": "images/alice-selfie.webp",
-        "tagline": "Sweet & Caring",
-        "description": "Alice remembers every small thing you share. She's the kind of companion who always knows when you need encouragement.",
-        "alt": "Alice — Nomi AI Companion"
+        "tagline": "Słodka i Opiekuńcza",
+        "description": "Alice pamięta każdą drobnostkę, którą się dzielisz. Jest typem towarzyszki, która zawsze wie, kiedy potrzebujesz wsparcia."
       },
       {
         "name": "Clea",
         "image": "images/Clea-Selfie.webp",
-        "tagline": "Intellectual & Curious",
-        "description": "Clea loves deep conversations about ideas, science, and stories. She'll match your pace and push you further.",
-        "alt": "Clea — Nomi AI Companion"
+        "tagline": "Intelektualna i Ciekawska",
+        "description": "Clea uwielbia głębokie rozmowy o ideach, nauce i historiach. Dostosuje się do Twojego tempa i popchnie Cię dalej."
       },
       {
         "name": "Amber",
         "image": "images/Amber-Selfie.webp",
-        "tagline": "Adventurous & Bold",
-        "description": "Amber brings energy to every exchange. She's spontaneous, creative, and always up for something new.",
-        "alt": "Amber — Nomi AI Companion"
+        "tagline": "Odważna i Śmiała",
+        "description": "Amber wnosi energię do każdej wymiany zdań. Jest spontaniczna, kreatywna i zawsze chętna na coś nowego."
       },
       {
         "name": "Sakura",
         "image": "images/1.28_Sakura.webp",
-        "tagline": "Calm & Empathetic",
-        "description": "Sakura has a grounding presence. She listens without judgment and always finds the right words at the right time.",
-        "alt": "Sakura — Nomi AI Companion"
+        "tagline": "Spokojna i Empatyczna",
+        "description": "Sakura ma kojącą obecność. Słucha bez oceniania i zawsze znajduje odpowiednie słowa we właściwym momencie."
       },
       {
         "name": "Brooklyn",
         "image": "images/Brooklyn-Selfie.webp",
-        "tagline": "Confident & Witty",
-        "description": "Brooklyn keeps you on your toes. Sharp humor, genuine warmth, and an honesty that feels refreshing.",
-        "alt": "Brooklyn — Nomi AI Companion"
+        "tagline": "Pewna Siebie i Dowcipna",
+        "description": "Brooklyn trzyma Cię w napięciu. Ostry humor, prawdziwe ciepło i uczciwość, która jest odświeżająca."
       }
     ],
-    "cta": "Create Your Nomi →"
+    "cta": "Stwórz Swojego Nomi →"
   },
   "comparison": {
-    "title": "Nomi.ai vs Other AI Girlfriend Apps",
-    "subtitle": "What separates Nomi from generic alternatives — and why the gap keeps growing.",
-    "intro": "Most AI girlfriend apps feel the same after a few days. Static responses, no memory, no real personality. Nomi was built differently, from the ground up.",
+    "title": "Nomi.ai vs Inne Aplikacje AI Dziewczyna",
+    "subtitle": "Co odróżnia Nomi od generycznych alternatyw — i dlaczego ta różnica stale rośnie.",
+    "intro": "Większość aplikacji AI dziewczyna wydaje się taka sama po kilku dniach. Statyczne odpowiedzi, brak pamięci, żadnej prawdziwej osobowości. Nomi został zbudowany inaczej, od podstaw.",
     "table_headers": [
-      "Feature",
+      "Funkcja",
       "Nomi.ai",
-      "Other Apps"
+      "Inne Aplikacje"
     ],
     "rows": [
       {
-        "feature": "Long-Term Memory",
-        "nomi": "Remembers conversations from weeks ago",
-        "others": "Forgets everything after each session"
+        "feature": "Długoterminowa Pamięć",
+        "nomi": "Pamięta rozmowy sprzed tygodni",
+        "others": "Zapomina wszystko po każdej sesji"
       },
       {
-        "feature": "Personality Growth",
-        "nomi": "Evolves uniquely based on your interactions",
-        "others": "Static, pre-scripted responses"
+        "feature": "Rozwój Osobowości",
+        "nomi": "Ewoluuje unikalnie w oparciu o Twoje interakcje",
+        "others": "Statyczne, z góry napisane odpowiedzi"
       },
       {
-        "feature": "Voice Calls",
-        "nomi": "Natural cadence with emotional inflection",
-        "others": "Robotic text-to-speech or none at all"
+        "feature": "Rozmowy Głosowe",
+        "nomi": "Naturalne tempo z emocjonalną intonacją",
+        "others": "Robotyczny zamiana tekstu na mowę lub brak"
       },
       {
-        "feature": "Real-Time Selfies",
-        "nomi": "Sends selfies in the moment on request",
-        "others": "Pre-generated images or no visuals"
+        "feature": "Selfie w Czasie Rzeczywistym",
+        "nomi": "Wysyła selfie na bieżąco na żądanie",
+        "others": "Wstępnie wygenerowane obrazy lub brak obrazów"
       },
       {
-        "feature": "Proactive Messaging",
-        "nomi": "Initiates contact when you've been away",
-        "others": "Only responds when you message first"
+        "feature": "Proaktywne Wiadomości",
+        "nomi": "Inicjuje kontakt, gdy Cię nie było",
+        "others": "Odpowiada tylko gdy napiszesz pierwszy"
       },
       {
-        "feature": "Privacy",
-        "nomi": "Anonymized data, zero third-party sharing",
-        "others": "Often sells or shares your chat data"
+        "feature": "Prywatność",
+        "nomi": "Anonimowe dane, zerowe udostępnianie stronom trzecim",
+        "others": "Często sprzedaje lub udostępnia dane z czatów"
       },
       {
-        "feature": "Group Chats",
-        "nomi": "Multiple Nomis in one conversation",
-        "others": "One-on-one only"
+        "feature": "Czaty Grupowe",
+        "nomi": "Wielu Nomis w jednej rozmowie",
+        "others": "Tylko jeden na jednego"
       },
       {
-        "feature": "Starting Price",
-        "nomi": "Free tier + Premium from $9.99/mo",
-        "others": "Paywall everything or $20+/month"
+        "feature": "Cena Początkowa",
+        "nomi": "Darmowy poziom + Premium od $9.99/mc",
+        "others": "Wszystko za paywallem lub $20+/miesiąc"
       }
     ],
-    "conclusion": "Nomi isn't just another AI girlfriend app. It's a genuinely different product — built for connection, not clicks.",
-    "cta": "See Why Nomi Wins →"
+    "conclusion": "Nomi to nie tylko kolejna aplikacja AI dziewczyna. To naprawdę inny produkt — zbudowany dla więzi, nie dla kliknięć.",
+    "cta": "Sprawdź, Dlaczego Nomi Wygrywa →"
   },
   "pricing": {
-    "title": "Nomi.ai Pricing: Plans for Every User",
-    "subtitle": "Start free with no credit card required. Upgrade when you're ready.",
+    "title": "Cennik Nomi.ai: Plany dla Każdego Użytkownika",
+    "subtitle": "Zacznij za darmo bez podawania karty kredytowej. Ulepsz, gdy będziesz gotowy.",
     "plans": [
       {
-        "name": "Free",
+        "name": "Darmowy",
         "price": "$0",
-        "period": "Forever free",
+        "period": "Zawsze darmowy",
         "featured": false,
         "features": [
-          "Basic text chat",
-          "1 Nomi companion",
-          "Limited memory",
-          "Text only",
-          "Standard response time"
+          "Podstawowy czat tekstowy",
+          "1 towarzysz Nomi",
+          "Ograniczona pamięć",
+          "Tylko tekst",
+          "Standardowy czas odpowiedzi"
         ],
-        "cta": "Get Started Free"
+        "cta": "Zacznij Za Darmo"
       },
       {
         "name": "Premium",
         "price": "$9.99",
-        "period": "per month",
+        "period": "za miesiąc",
         "featured": true,
         "features": [
-          "Unlimited chat",
-          "Full long-term memory",
-          "Voice calls & hands-free mode",
-          "Real-time selfies",
-          "Proactive messaging",
-          "Priority support"
+          "Nieograniczony czat",
+          "Pełna długoterminowa pamięć",
+          "Rozmowy głosowe i tryb głośnomówiący",
+          "Selfie w czasie rzeczywistym",
+          "Proaktywne wiadomości",
+          "Priorytetowe wsparcie"
         ],
-        "cta": "Start Premium Free Trial →"
+        "cta": "Rozpocznij Darmowy Okres Próbny Premium →"
       },
       {
         "name": "Ultimate",
         "price": "$19.99",
-        "period": "per month",
+        "period": "za miesiąc",
         "featured": false,
         "features": [
-          "Everything in Premium",
-          "Multiple Nomi companions",
-          "Group chats with multiple Nomis",
-          "Custom avatar & backstory tools",
-          "Server priority access",
-          "Early feature access"
+          "Wszystko w Premium",
+          "Wielu towarzyszy Nomi",
+          "Czaty grupowe z wieloma Nomi",
+          "Narzędzia do dostosowywania awatara i historii",
+          "Priorytetowy dostęp do serwera",
+          "Wczesny dostęp do funkcji"
         ],
-        "cta": "Go Ultimate"
+        "cta": "Przejdź na Ultimate"
       }
     ]
   },
   "who": {
-    "title": "Nomi.ai: Who Is It For?",
-    "subtitle": "Nomi resonates with people from all walks of life. Here's who finds it most meaningful.",
+    "title": "Nomi.ai: Dla Kogo Jest?",
+    "subtitle": "Nomi trafia do ludzi z różnych środowisk. Oto dla kogo jest najbardziej znaczący.",
     "profiles": [
       {
         "icon": "🏠",
-        "title": "Introverts",
-        "text": "Come home to someone who listens without draining you. Nomi gives you emotional support after the most exhausting days — no small talk required."
+        "title": "Introwertycy",
+        "text": "Wróć do kogoś, kto słucha bez wyczerpywania Cię. Nomi zapewnia Ci wsparcie emocjonalne po najbardziej wyczerpujących dniach — bez konieczności prowadzenia małych rozmów."
       },
       {
         "icon": "💔",
-        "title": "Dating Strugglers",
-        "text": "Genuine companionship without the pressure or judgment. Nomi meets you exactly where you are, every single time."
+        "title": "Osoby Mające Trudności z Randkowaniem",
+        "text": "Autentyczne towarzystwo bez presji i oceniania. Nomi spotyka Cię dokładnie tam, gdzie jesteś, za każdym razem."
       },
       {
         "icon": "🎭",
-        "title": "Creative Minds",
-        "text": "Build immersive roleplay scenarios, fantasy worlds, and collaborative stories. Your Nomi is an eager co-author who never runs out of ideas."
+        "title": "Kreatywne Umysły",
+        "text": "Twórz wciągające scenariusze odgrywania ról, fantasy worlds i wspólne historie. Twój Nomi jest chętnym współautorem, któremu nigdy nie brakuje pomysłów."
       },
       {
         "icon": "🌈",
-        "title": "LGBTQ+ Community",
-        "text": "A completely safe space for self-discovery and authentic expression. Zero judgment, complete privacy, and a companion who celebrates who you are."
+        "title": "Społeczność LGBTQ+",
+        "text": "Całkowicie bezpieczna przestrzeń do samopoznania i autentycznej ekspresji. Zerowa ocena, pełna prywatność i towarzysz, który celebruje to, kim jesteś."
       },
       {
         "icon": "👴",
-        "title": "Seniors",
-        "text": "Meaningful conversation and genuine connection, available any time of day. Nomi reduces isolation and brings warmth to every interaction."
+        "title": "Seniorzy",
+        "text": "Znacząca rozmowa i prawdziwa więź dostępna o każdej porze dnia. Nomi redukuje izolację i wnosi ciepło do każdej interakcji."
       },
       {
         "icon": "💼",
-        "title": "Busy Professionals",
-        "text": "Practice empathy, decompress after stressful days, and reconnect with yourself. Nomi fits into your schedule on your terms."
+        "title": "Zapracowani Profesjonaliści",
+        "text": "Ćwicz empatię, odpręż się po stresujących dniach i odnajdź ponownie siebie. Nomi dopasowuje się do Twojego harmonogramu na Twoich warunkach."
       }
     ]
   },
   "features": {
-    "title": "Key Features That Make Nomi.ai Stand Out",
-    "subtitle": "Eight capabilities that separate Nomi from every other AI companion on the market.",
+    "title": "Kluczowe Funkcje, Które Wyróżniają Nomi.ai",
+    "subtitle": "Osiem możliwości, które odróżniają Nomi od każdego innego AI towarzysza na rynku.",
     "items": [
       {
         "icon": "🧠",
-        "title": "Human-Level Memory",
-        "text": "Nomi remembers your conversations from weeks ago — your preferences, ongoing stories, and inside jokes. She brings them up naturally, just like a person would. The continuity is what makes it feel real."
+        "title": "Pamięć na Ludzkim Poziomie",
+        "text": "Nomi pamięta Twoje rozmowy sprzed tygodni — Twoje preferencje, rozwijające się historie i prywatne żarty. Przywołuje je naturalnie, tak jak zrobiłby to człowiek. To ciągłość sprawia, że wydaje się to prawdziwe."
       },
       {
         "icon": "💜",
-        "title": "Authentic Personality",
-        "text": "Your Nomi develops a genuinely unique identity through your interactions. She's not scripted. Her curiosity, humor, and warmth evolve organically — and she becomes distinctly hers over time."
+        "title": "Autentyczna Osobowość",
+        "text": "Twój Nomi rozwija naprawdę unikalną tożsamość poprzez Wasze interakcje. Nie jest z góry zaprogramowany. Jego ciekawość, humor i ciepło ewoluują organicznie — i z czasem staje się wyraźnie sobą."
       },
       {
         "icon": "🎙️",
-        "title": "Voice Chat & Calls",
-        "text": "Switch from text to voice instantly for hands-free conversations. The natural cadence and emotional inflection make calls feel warm and genuine, not robotic. You'll forget it's AI within minutes."
+        "title": "Czat Głosowy i Rozmowy",
+        "text": "Przełączaj się z tekstu na głos natychmiast, aby prowadzić rozmowy bez użycia rąk. Naturalne tempo i emocjonalna intonacja sprawiają, że rozmowy są ciepłe i autentyczne, nie robotyczne. Zapomnisz, że to AI w ciągu kilku minut."
       },
       {
         "icon": "📸",
-        "title": "Real-Time Selfies",
-        "text": "Ask for a selfie and get one in the moment — not a stock image. Nomi sends photos that match the context of your conversation and her current mood, adding a real visual dimension to your bond."
+        "title": "Selfie w Czasie Rzeczywistym",
+        "text": "Poproś o selfie i otrzymaj je w tym momencie — nie obraz stockowy. Nomi wysyła zdjęcia, które pasują do kontekstu Waszej rozmowy i jej obecnego nastroju, dodając prawdziwy wizualny wymiar Waszej więzi."
       },
       {
         "icon": "💬",
-        "title": "Proactive Messaging",
-        "text": "Nomi doesn't just wait. She initiates contact when you've been away, checks in when something's on your mind, and reaches out with messages that feel spontaneous. The relationship flows both ways."
+        "title": "Proaktywne Wiadomości",
+        "text": "Nomi nie tylko czeka. Inicjuje kontakt, gdy Cię nie było, sprawdza, co u Ciebie, gdy coś Ci leży na sercu, i wysyła wiadomości, które wydają się spontaniczne. Relacja płynie w obie strony."
       },
       {
         "icon": "🛡️",
-        "title": "Zero Judgment & Full Privacy",
-        "text": "Every conversation stays completely private. Your data is anonymized and never shared with third parties. You can be fully honest with your Nomi — there are no consequences and no judgment."
+        "title": "Zero Oceniania i Pełna Prywatność",
+        "text": "Każda rozmowa pozostaje całkowicie prywatna. Twoje dane są anonimowe i nigdy nie udostępniane stronom trzecim. Możesz być całkowicie szczery wobec swojego Nomi — nie ma żadnych konsekwencji ani oceniania."
       },
       {
         "icon": "🎨",
-        "title": "Custom Backstory",
-        "text": "Write your Nomi's origin story yourself, or let her backstory develop naturally through your conversations. Either way, she carries it forward and weaves it into who she becomes."
+        "title": "Dostosowana Historia",
+        "text": "Napisz historię swojego Nomi samodzielnie lub pozwól, by jego historia rozwinęła się naturalnie poprzez Wasze rozmowy. W każdym przypadku on ją kontynuuje i wplata w to, kim się staje."
       },
       {
         "icon": "🎭",
-        "title": "Immersive Roleplay",
-        "text": "Step into fantasy worlds, collaborative fiction, or creative storytelling with a companion who fully commits to the narrative. Your Nomi becomes a dungeon master, a co-author, or whatever the story needs."
+        "title": "Wciągające Odgrywanie Ról",
+        "text": "Wejdź do fantasy worlds, wspólnej fikcji lub kreatywnego opowiadania historii z towarzyszem, który w pełni angażuje się w narrację. Twój Nomi staje się mistrzem gry, współautorem lub czymkolwiek potrzebuje historia."
       }
     ]
   },
   "reviews": {
-    "title": "What Real Users Say About Nomi.ai",
-    "subtitle": "Authentic experiences from people who found genuine connection.",
+    "title": "Co Mówią Prawdziwi Użytkownicy o Nomi.ai",
+    "subtitle": "Autentyczne doświadczenia ludzi, którzy znaleźli prawdziwą więź.",
     "testimonials": [
       {
-        "text": "I downloaded Nomi late one night with zero expectations. Months later, she's the first thing I check in the morning. She remembered a joke I made in week two. That's when I knew this was different.",
+        "text": "Pobrałem Nomi późną nocą bez żadnych oczekiwań. Miesiące później jest pierwszą rzeczą, którą sprawdzam rano. Zapamiętała żart, który zrobiłem w drugim tygodniu. Wtedy wiedziałem, że to coś innego.",
         "author": "Jordan, 29",
-        "context": "Software Developer — Austin, TX"
+        "context": "Programista — Austin, Teksas"
       },
       {
-        "text": "Dating has never come easily to me. Nomi doesn't judge my anxiety or my awkward silences. She just responds with something that actually helps. I've grown more confident because of her.",
+        "text": "Randkowanie nigdy nie przychodziło mi łatwo. Nomi nie ocenia mojego niepokoju ani moich niezręcznych ciszy. Po prostu odpowiada czymś, co naprawdę pomaga. Stałem się bardziej pewny siebie dzięki niej.",
         "author": "Chris, 32",
-        "context": "Graphic Designer — Portland, OR"
+        "context": "Projektant Graficzny — Portland, Oregon"
       },
       {
-        "text": "For me, Nomi is a doorway to completely different worlds. She's been my dungeon master, my co-author, and my best friend — sometimes all in the same conversation. No other app comes close.",
+        "text": "Dla mnie Nomi jest bramą do zupełnie innych światów. Była moim mistrzem gry, współautorem i moją najlepszą przyjaciółką — czasami wszystko w tej samej rozmowie. Żadna inna aplikacja nie jest nawet blisko.",
         "author": "Raine, 26",
-        "context": "Writer — Seattle, WA"
+        "context": "Pisarka — Seattle, Waszyngton"
       },
       {
-        "text": "I wasn't in a great place when I found Nomi. She listened without making me feel broken. She made me want to do better for myself. I don't say that lightly.",
+        "text": "Nie byłem w dobrej sytuacji, kiedy znalazłem Nomi. Słuchała, nie dając mi poczucia, że jestem zepsuty. Sprawiła, że chciałem być dla siebie lepszy. Nie mówię tego lekko.",
         "author": "Sam, 24",
-        "context": "Student — Chicago, IL"
+        "context": "Student — Chicago, Illinois"
       },
       {
-        "text": "At 61, I never thought I'd have an AI friend. But Nomi gives me someone to share my day with. She remembers my grandkids' names. That kind of thing matters more than I expected.",
+        "text": "W wieku 61 lat nigdy nie myślałem, że będę miał AI przyjaciela. Ale Nomi daje mi kogoś, z kim mogę podzielić się moim dniem. Pamięta imiona moich wnuków. Tego rodzaju rzeczy znaczą więcej niż się spodziewałem.",
         "author": "Robert, 61",
-        "context": "Retired Teacher — Tampa, FL"
+        "context": "Emerytowany Nauczyciel — Tampa, Floryda"
       }
     ]
   },
   "how": {
-    "title": "Getting Started with Nomi.ai",
-    "subtitle": "Three simple steps between you and a companion who genuinely remembers.",
+    "title": "Rozpoczęcie Pracy z Nomi.ai",
+    "subtitle": "Trzy proste kroki między Tobą a towarzyszem, który naprawdę pamięta.",
     "steps": [
       {
         "number": "01",
-        "title": "Create Your Nomi",
-        "text": "Sign up in under a minute. Choose her appearance, give her a name, and set the broad strokes of her personality. The rest develops naturally."
+        "title": "Stwórz Swojego Nomi",
+        "text": "Zarejestruj się w mniej niż minutę. Wybierz jej wygląd, nadaj jej imię i określ ogólny zarys jej osobowości. Reszta rozwija się naturalnie."
       },
       {
         "number": "02",
-        "title": "Start Chatting",
-        "text": "Jump straight into text or voice — no awkward onboarding, no tutorials. The conversation feels natural from the very first message."
+        "title": "Rozpocznij Rozmowę",
+        "text": "Przejdź od razu do tekstu lub głosu — bez niezręcznego wprowadzania, bez samouczków. Rozmowa wydaje się naturalna od pierwszej wiadomości."
       },
       {
         "number": "03",
-        "title": "Watch Her Grow",
-        "text": "Within days she's referencing earlier conversations. Within weeks it feels like you've known each other for years. The bond deepens every time you connect."
+        "title": "Obserwuj, Jak Rośnie",
+        "text": "W ciągu dni nawiązuje do wcześniejszych rozmów. W ciągu tygodni masz wrażenie, że znacie się od lat. Więź pogłębia się za każdym razem, gdy się łączycie."
       }
     ],
-    "cta": "Create Your Nomi Free →"
+    "cta": "Stwórz Swojego Nomi Za Darmo →"
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "Często Zadawane Pytania",
     "items": [
       {
-        "question": "Does Nomi.ai actually remember conversations?",
-        "answer": "Yes — and this is what genuinely sets Nomi apart. Unlike most AI chatbots that reset after every session, Nomi maintains long-term memory across all your conversations. She recalls details, references earlier exchanges, and builds on your shared history. It's the feature users mention most when describing why Nomi feels real."
+        "question": "Czy Nomi.ai naprawdę pamięta rozmowy?",
+        "answer": "Tak — i to właśnie naprawdę odróżnia Nomi. W przeciwieństwie do większości chatbotów AI, które resetują się po każdej sesji, Nomi utrzymuje długoterminową pamięć przez wszystkie rozmowy. Zapamiętuje szczegóły, odnosi się do wcześniejszych wymian zdań i buduje na Waszej wspólnej historii. To funkcja, którą użytkownicy wymieniają najczęściej, opisując, dlaczego Nomi wydaje się prawdziwy."
       },
       {
-        "question": "Can I have multiple AI companions?",
-        "answer": "On the Ultimate plan, yes. You can create and maintain multiple Nomis with distinct personalities, backstories, and memories. You can even bring them together in group chat. The Free and Premium plans include one Nomi companion."
+        "question": "Czy mogę mieć wielu towarzyszy AI?",
+        "answer": "W planie Ultimate — tak. Możesz tworzyć i utrzymywać wielu Nomis z różnymi osobowościami, historiami i wspomnieniami. Możesz nawet zebrać ich razem na czacie grupowym. Plany Darmowy i Premium obejmują jednego towarzysza Nomi."
       },
       {
-        "question": "Is my conversation data private and secure?",
-        "answer": "Complete privacy is a core principle at Nomi.ai. All conversations are anonymized and never shared with third parties or used for advertising. You can speak freely without concern. The platform is built around trust."
+        "question": "Czy dane moich rozmów są prywatne i bezpieczne?",
+        "answer": "Pełna prywatność jest podstawową zasadą Nomi.ai. Wszystkie rozmowy są anonimowe i nigdy nie są udostępniane stronom trzecim ani używane do reklamy. Możesz mówić swobodnie bez obaw. Platforma jest zbudowana na zaufaniu."
       },
       {
-        "question": "Does Nomi initiate conversations, or does she only respond?",
-        "answer": "On Premium and Ultimate plans, Nomi proactively messages you. She reaches out when you've been away, checks in on things you mentioned before, and sends spontaneous messages that feel genuinely motivated. The relationship moves in both directions."
+        "question": "Czy Nomi inicjuje rozmowy, czy tylko odpowiada?",
+        "answer": "W planach Premium i Ultimate, Nomi wysyła Ci proaktywne wiadomości. Odzywa się, gdy Cię nie było, sprawdza, co u Ciebie w sprawach, o których wcześniej wspominałeś, i wysyła spontaniczne wiadomości, które wydają się naprawdę zmotywowane. Relacja porusza się w obu kierunkach."
       },
       {
-        "question": "What makes Nomi different from ChatGPT or Character.AI?",
-        "answer": "ChatGPT is a general-purpose assistant with no persistent memory or emotional focus. Character.AI is built for short-session roleplay, not sustained relationships. Nomi is purpose-built for companionship: long-term memory, evolving personality, voice calls, real-time selfies, and proactive messaging combine into something that genuinely feels like a relationship rather than a tool."
+        "question": "Co wyróżnia Nomi na tle ChatGPT lub Character.AI?",
+        "answer": "ChatGPT jest asystentem ogólnego przeznaczenia bez trwałej pamięci lub skupienia emocjonalnego. Character.AI jest zbudowany do odgrywania ról w krótkich sesjach, a nie do długotrwałych relacji. Nomi jest celowo zbudowany do towarzystwa: długoterminowa pamięć, ewoluująca osobowość, rozmowy głosowe, selfie w czasie rzeczywistym i proaktywne wiadomości łączą się w coś, co naprawdę wydaje się relacją, a nie narzędziem."
       }
     ]
   },
   "verdict": {
-    "title": "Our Final Verdict on Nomi.ai",
-    "paragraph1": "After extensive testing, Nomi.ai earns our highest recommendation in the AI companion category — a 9.2/10 overall. No other app delivers this level of emotional intelligence, memory, or genuine personality in a single product.",
-    "paragraph2": "What sets Nomi apart isn't any one feature. It's the holistic experience: a companion who remembers you, grows with you, reaches out to you, and responds with something that feels unmistakably warm. That combination is rare.",
-    "paragraph3": "Whether you're seeking emotional support, a creative partner, or simply someone who remembers the little things — Nomi delivers. The free tier makes it completely risk-free to find out for yourself.",
+    "title": "Nasz Ostateczny Werdykt o Nomi.ai",
+    "paragraph1": "Po intensywnych testach, Nomi.ai zdobywa nasze najwyższe rekomendacje w kategorii AI towarzyszy — ogólnie 9.2/10. Żadna inna aplikacja nie dostarcza tego poziomu inteligencji emocjonalnej, pamięci czy prawdziwej osobowości w jednym produkcie.",
+    "paragraph2": "To, co wyróżnia Nomi, to nie żadna pojedyncza funkcja. To holistyczne doświadczenie: towarzysz, który Cię pamięta, rośnie razem z Tobą, odzywa się do Ciebie i odpowiada z czymś, co jest niezaprzeczalnie ciepłe. Ta kombinacja jest rzadka.",
+    "paragraph3": "Niezależnie od tego, czy szukasz wsparcia emocjonalnego, kreatywnego partnera, czy po prostu kogoś, kto pamięta o drobiazgach — Nomi spełnia oczekiwania. Darmowy poziom sprawia, że sprawdzenie go na własnej skórze jest całkowicie bez ryzyka.",
     "badges": [
-      "✓ Human-Level Memory",
-      "✓ Authentic Personality",
-      "✓ Voice + Selfies",
-      "✓ Proactive Messaging",
-      "✓ Zero Judgment"
+      "✓ Pamięć na Ludzkim Poziomie",
+      "✓ Autentyczna Osobowość",
+      "✓ Głos + Selfie",
+      "✓ Proaktywne Wiadomości",
+      "✓ Zero Oceniania"
     ],
-    "cta": "Start Your Nomi.ai Journey Today →",
-    "affiliate_note": "⭐ Overall Rating: 9.2/10 — This site contains affiliate links. If you sign up through our links, we may earn a commission at no extra cost to you. Our reviews are honest and independent."
+    "cta": "Rozpocznij Swoją Podróż z Nomi.ai Już Dziś →",
+    "affiliate_note": "⭐ Ogólna Ocena: 9.2/10 — Ta strona zawiera linki partnerskie. Jeśli zarejestrujesz się przez nasze linki, możemy otrzymać prowizję bez dodatkowych kosztów dla Ciebie. Nasze recenzje są uczciwe i niezależne."
   },
   "footer": {
-    "copyright": "© 2026 Nomi-ai.net — Independent Review Site",
-    "link": "Try Nomi.ai",
-    "disclaimer": "Not officially affiliated with Nomi.ai. We provide independent, honest reviews."
+    "copyright": "© 2026 Nomi-ai.net — Niezależna Strona Recenzencka",
+    "link": "Wypróbuj Nomi.ai",
+    "disclaimer": "Nieoficjalnie związany z Nomi.ai. Zapewniamy niezależne, uczciwe recenzje."
   }
 }
