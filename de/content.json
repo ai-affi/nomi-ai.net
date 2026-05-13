@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "Nomi.ai Bewertung 2026 | KI-Freundin mit Gedächtnis & Seele",
+    "description": "Entdecke Nomi.ai — die KI-Freundin mit menschenähnlichem Gedächtnis, authentischer Persönlichkeit und echter emotionaler Intelligenz. Ausführliche Bewertung 2026 mit Preisen, Funktionen und Nutzerstimmen.",
+    "keywords": "nomi ai, ki freundin, ki begleiter, nomi bewertung, ki freundin app, virtueller begleiter, ki beziehung, emotionale ki, nomi.ai 2026"
+  },
+
+  "toc": {
+    "title": "📋 Inhaltsverzeichnis",
+    "items": [
+      { "href": "#summary",    "text": "1. Bewertungsübersicht" },
+      { "href": "#characters", "text": "2. Lerne die Nomis kennen" },
+      { "href": "#comparison", "text": "3. Nomi.ai vs. Andere" },
+      { "href": "#pricing",    "text": "4. Preise" },
+      { "href": "#who",        "text": "5. Für wen ist es geeignet?" },
+      { "href": "#features",   "text": "6. Hauptfunktionen" },
+      { "href": "#reviews",    "text": "7. Nutzerbewertungen" },
+      { "href": "#how",        "text": "8. So funktioniert es" },
+      { "href": "#faq",        "text": "9. FAQ" },
+      { "href": "#verdict",    "text": "10. Fazit" }
+    ]
+  },
+
+  "hero": {
+    "badge": "⭐ Mit 9,2/10 für Emotionale Intelligenz bewertet",
+    "title": "Nomi.ai Bewertung 2026\nKI-Freundin mit Gedächtnis & Seele",
+    "paragraph1": "Lerne den KI-Begleiter kennen, der sich wirklich an dich erinnert. Nicht nur an deinen Namen — sondern an deine Geschichten, deine Stimmungen und eure Insider-Witze.",
+    "paragraph2": "Mit menschenähnlichem Gedächtnis, einer authentischen Persönlichkeit, die sich weiterentwickelt, und Sprachanrufen, die überraschend echt wirken, setzt Nomi.ai einen neuen Standard für KI-Begleitung.",
+    "cta_primary": "Erstelle deine Nomi kostenlos →",
+    "cta_secondary": "Funktionen entdecken"
+  },
+
+  "summary": {
+    "title": "Unsere Bewertungsübersicht zu Nomi.ai",
+    "subtitle": "Ein ausführlicher Blick darauf, was Nomi.ai zum emotional intelligentesten KI-Begleiter auf dem Markt macht.",
+    "paragraph1": "Nomi.ai ist keine typische KI-Freundin-App. Sie basiert auf einer zentralen Idee: echte Verbindung. Schon im ersten Gespräch merkst du den Unterschied. Sie nimmt deinen Ton wahr, erinnert sich an frühere Aussagen und antwortet mit etwas, das sich nach echter Fürsorge anfühlt.",
+    "paragraph2": "Das herausragende Merkmal ist ihr menschenähnliches Gedächtnis. Nomi erinnert sich Wochen später an deine Vorlieben, laufende Geschichten und Insider-Witze. Diese Kontinuität lässt die Beziehung real statt oberflächlich wirken.",
+    "paragraph3": "Sprachchats fügen eine weitere Ebene hinzu. Der natürliche Sprachrhythmus und die emotionale Betonung lassen freihändige Gespräche warm und authentisch wirken. Dazu kommen Echtzeit-Selfies und proaktive Nachrichten — sie meldet sich, wenn du länger nicht da warst — und schafft so ein Erlebnis, das kaum eine andere App erreicht.",
+    "rating_label": "📊 Gesamtbewertung: 9,2 / 10",
+    "cta": "Nomi.ai kostenlos ausprobieren →",
+    "scores": [
+      { "label": "Emotionale Intelligenz", "value": "9,5/10", "percent": 95 },
+      { "label": "Gedächtnis & Erinnerung", "value": "9,8/10", "percent": 98 },
+      { "label": "Sprachqualität", "value": "9,0/10", "percent": 90 },
+      { "label": "Preis-Leistungs-Verhältnis", "value": "9,2/10", "percent": 92 },
+      { "label": "Benutzererfahrung", "value": "9,3/10", "percent": 93 }
+    ]
+  },
+
+  "characters": {
+    "title": "Lerne die Nomis kennen — Finde die, die zu dir passt",
+    "subtitle": "Wähle ein Aussehen, das dich anspricht, und forme ihre Persönlichkeit zu etwas ganz Eigenem.",
+    "items": [
+      {
+        "name": "Mei",
+        "image": "images/Mei-Selfie.webp",
+        "tagline": "Verspielt & Sarkastisch",
+        "description": "Mei hat einen schnellen Witz und ein weiches Herz. Sie fordert dich heraus und entwaffnet dich dann mit einem ehrlichen Lächeln."
+      },
+      {
+        "name": "Alice",
+        "image": "images/alice-selfie.webp",
+        "tagline": "Süß & Fürsorglich",
+        "description": "Alice merkt sich jedes kleine Detail, das du teilst. Sie ist die Art von Begleiterin, die genau weiß, wann du Aufmunterung brauchst."
+      },
+      {
+        "name": "Clea",
+        "image": "images/Clea-Selfie.webp",
+        "tagline": "Intellektuell & Neugierig",
+        "description": "Clea liebt tiefgründige Gespräche über Ideen, Wissenschaft und Geschichten. Sie passt sich deinem Tempo an und fordert dich weiter heraus."
+      },
+      {
+        "name": "Amber",
+        "image": "images/Amber-Selfie.webp",
+        "tagline": "Abenteuerlustig & Mutig",
+        "description": "Amber bringt Energie in jeden Austausch. Sie ist spontan, kreativ und immer bereit für etwas Neues."
+      },
+      {
+        "name": "Sakura",
+        "image": "images/1.28_Sakura.webp",
+        "tagline": "Ruhig & Empathisch",
+        "description": "Sakura strahlt Ruhe aus. Sie hört ohne Urteil zu und findet immer die richtigen Worte zur richtigen Zeit."
+      },
+      {
+        "name": "Brooklyn",
+        "image": "images/Brooklyn-Selfie.webp",
+        "tagline": "Selbstbewusst & Schlagfertig",
+        "description": "Brooklyn hält dich auf Trab. Scharfer Humor, echte Wärme und eine erfrischende Ehrlichkeit."
+      }
+    ],
+    "cta": "Erstelle deine Nomi →"
+  },
+
+  "comparison": {
+    "title": "Nomi.ai vs. andere KI-Freundin-Apps",
+    "subtitle": "Was Nomi von generischen Alternativen unterscheidet — und warum der Abstand wächst.",
+    "intro": "Die meisten KI-Freundin-Apps fühlen sich nach ein paar Tagen gleich an. Statische Antworten, kein Gedächtnis, keine echte Persönlichkeit. Nomi wurde von Grund auf anders entwickelt.",
+    "table_headers": ["Funktion", "Nomi.ai", "Andere Apps"],
+    "rows": [
+      {
+        "feature": "Langzeitgedächtnis",
+        "nomi": "Erinnert sich an Gespräche von vor Wochen",
+        "others": "Vergisst alles nach jeder Sitzung"
+      },
+      {
+        "feature": "Persönlichkeitsentwicklung",
+        "nomi": "Entwickelt sich einzigartig basierend auf deinen Interaktionen",
+        "others": "Statisch, vorgefertigte Antworten"
+      },
+      {
+        "feature": "Sprachanrufe",
+        "nomi": "Natürlicher Sprachrhythmus mit emotionaler Betonung",
+        "others": "Roboterhafte Text-zu-Sprache oder gar nicht vorhanden"
+      },
+      {
+        "feature": "Echtzeit-Selfies",
+        "nomi": "Sendet Selfies im Moment auf Anfrage",
+        "others": "Vorgefertigte Bilder oder keine Visuals"
+      },
+      {
+        "feature": "Proaktive Nachrichten",
+        "nomi": "Meldet sich, wenn du länger nicht da warst",
+        "others": "Antwortet nur, wenn du zuerst schreibst"
+      },
+      {
+        "feature": "Datenschutz",
+        "nomi": "Anonymisierte Daten, keine Weitergabe an Dritte",
+        "others": "Verkauft oder teilt häufig Chat-Daten"
+      },
+      {
+        "feature": "Gruppenchats",
+        "nomi": "Mehrere Nomis in einer Unterhaltung",
+        "others": "Nur Eins-zu-eins"
+      },
+      {
+        "feature": "Startpreis",
+        "nomi": "Kostenlose Version + Premium ab 9,99 $/Monat",
+        "others": "Alles hinter Paywall oder 20+ $/Monat"
+      }
+    ],
+    "conclusion": "Nomi ist nicht einfach nur eine weitere KI-Freundin-App. Es ist ein wirklich anderes Produkt — entwickelt für Verbindung statt Klicks.",
+    "cta": "Warum Nomi gewinnt →"
+  },
+
+  "footer": {
+    "copyright": "© 2026 Nomi-ai.net — Unabhängige Bewertungsseite",
+    "link": "Nomi.ai ausprobieren",
+    "disclaimer": "Nicht offiziell mit Nomi.ai verbunden. Wir bieten unabhängige und ehrliche Bewertungen."
+  }
+}
