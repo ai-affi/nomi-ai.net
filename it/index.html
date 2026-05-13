@@ -467,7 +467,7 @@
     if (charGrid && c.characters && c.characters.items) {
       charGrid.innerHTML = c.characters.items.map(ch => `
         <div class="character-card">
-          <img src="${ch.image}" alt="${ch.name}" loading="lazy" width="280" height="373">
+          <img src="${ch.image}" alt="${ch.alt}" loading="lazy" width="280" height="373">
           <div class="character-card-body">
             <div class="character-name">${ch.name}</div>
             <span class="character-tagline">${ch.tagline}</span>
