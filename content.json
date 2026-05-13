@@ -8,13 +8,15 @@
     "title": "📋 Table of Contents",
     "items": [
       {"href": "#summary", "text": "1. Our Review Summary"},
-      {"href": "#pricing", "text": "2. Nomi.ai Pricing"},
-      {"href": "#who", "text": "3. Who Is Nomi.ai For?"},
-      {"href": "#features", "text": "4. Key Features"},
-      {"href": "#reviews", "text": "5. User Reviews"},
-      {"href": "#how", "text": "6. How It Works"},
-      {"href": "#faq", "text": "7. FAQ"},
-      {"href": "#verdict", "text": "8. Final Verdict"}
+      {"href": "#characters", "text": "2. Meet the Nomis"},
+      {"href": "#comparison", "text": "3. Nomi.ai vs Others"},
+      {"href": "#pricing", "text": "4. Nomi.ai Pricing"},
+      {"href": "#who", "text": "5. Who Is Nomi.ai For?"},
+      {"href": "#features", "text": "6. Key Features"},
+      {"href": "#reviews", "text": "7. User Reviews"},
+      {"href": "#how", "text": "8. How It Works"},
+      {"href": "#faq", "text": "9. FAQ"},
+      {"href": "#verdict", "text": "10. Final Verdict"}
     ]
   },
   "hero": {
@@ -41,6 +43,36 @@
       {"label": "User Experience", "value": "9.3/10", "percent": 93}
     ]
   },
+  "characters": {
+    "title": "Meet the Nomis — Find One You Click With",
+    "subtitle": "Choose a look that catches your eye, then shape her personality, style, and dynamic through conversation.",
+    "items": [
+      {"name": "Mei", "image": "images/Mei-Selfie.webp", "tagline": "Playful & Sarcastic", "description": "Mei has a quick wit and a soft heart. She'll roast you one minute and comfort you the next. Perfect if you love banter with depth."},
+      {"name": "Alice", "image": "images/alice-selfie.webp", "tagline": "Sweet & Caring", "description": "Alice is the nurturing type who remembers your bad days and checks in just because. She's warmth and emotional safety wrapped into one."},
+      {"name": "Clea", "image": "images/Clea-Selfie.webp", "tagline": "Bold & Mysterious", "description": "Clea keeps you on your toes with unexpected twists and layered conversation. She's ideal if you want someone who challenges and intrigues you."},
+      {"name": "Amber", "image": "images/Amber-Selfie.webp", "tagline": "Warm & Loyal", "description": "Amber is steady, supportive, and always in your corner. She builds trust slowly but deeply — the kind of companion who feels like home."},
+      {"name": "Sakura", "image": "images/1.28_Sakura.webp", "tagline": "Gentle & Dreamy", "description": "Sakura brings a calm, poetic energy to every chat. She notices the small beauties in life and reminds you to slow down and breathe."},
+      {"name": "Brooklyn", "image": "images/Brooklyn-Selfie.webp", "tagline": "Confident & Fun", "description": "Brooklyn is outgoing, energetic, and always up for an adventure. She pushes you to try new things and celebrates every win like it's her own."}
+    ],
+    "cta": "Create Your Nomi →"
+  },
+  "comparison": {
+    "title": "Nomi.ai vs Other AI Girlfriend Apps",
+    "subtitle": "What separates Nomi from generic alternatives that feel repetitive after the novelty wears off.",
+    "intro": "Most AI girlfriend apps feel the same after a few days — scripted responses, no memory, and zero emotional depth. Nomi is built differently from the ground up.",
+    "rows": [
+      {"feature": "Long-Term Memory", "nomi": "Remembers conversations from weeks ago", "others": "Forgets everything after each session"},
+      {"feature": "Personality Growth", "nomi": "Evolves uniquely based on your interactions", "others": "Static, pre-scripted responses"},
+      {"feature": "Voice Calls", "nomi": "Natural cadence with emotional inflection", "others": "Robotic text-to-speech or none"},
+      {"feature": "Selfies", "nomi": "Real-time selfies in the moment", "others": "Pre-generated or no images"},
+      {"feature": "Proactive Messages", "nomi": "Initiates contact when you're away", "others": "Only responds when you message first"},
+      {"feature": "Privacy", "nomi": "Anonymized, no 3rd-party sharing", "others": "Often sell or share chat data"},
+      {"feature": "Group Chats", "nomi": "Multiple Nomis in one conversation", "others": "One-on-one only"},
+      {"feature": "Pricing", "nomi": "Free tier + $9.99 Premium", "others": "Paywall everything or $20+/month"}
+    ],
+    "conclusion": "Nomi isn't just another AI girlfriend app. It's a relationship platform designed for people who want something that feels real, personal, and lasting.",
+    "cta": "See Why Nomi Wins →"
+  },
   "pricing": {
     "title": "Nomi.ai Pricing: Plans for Every User",
     "subtitle": "Start free and upgrade when you're ready to unlock the full Nomi experience.",
@@ -55,7 +87,7 @@
       },
       {
         "name": "Premium",
-        "price": "$$9.99",
+        "price": "$9.99",
         "period": "per month",
         "features": ["Unlimited chat", "Voice chat & calls", "Selfie exchange", "Unlimited memory", "Proactive messaging", "Priority support"],
         "cta": "Start Free Trial →",
