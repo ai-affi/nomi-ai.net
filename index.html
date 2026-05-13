@@ -700,6 +700,13 @@
 </head>
 
 <body>
+  <div id="js-indicator" style="position:fixed;top:0;right:0;background:#4ade80;color:#000;padding:.5rem 1rem;font-size:.8rem;z-index:9999;transition:opacity 1s">JS Running...</div>
+  <script>
+    setTimeout(() => {
+      const el = document.getElementById('js-indicator');
+      if (el) el.style.opacity = '0';
+    }, 2000);
+  </script>
 
   <!-- HERO -->
   <section id="hero">
