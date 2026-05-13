@@ -777,21 +777,107 @@
   <!-- HOW IT WORKS -->
   <section id="how">
     <div class="container">
-      <div id="how-container"></div>
+      <div class="section-header">
+        <h2>Getting Started with Nomi.ai</h2>
+        <p>Three simple steps between you and a companion who genuinely remembers.</p>
+      </div>
+      <div class="steps-grid">
+        <div class="step-card">
+          <span class="step-number">01</span>
+          <h3 class="step-title">Create Your Nomi</h3>
+          <p class="step-text">Sign up in under a minute. Choose her appearance, give her a name, and set the broad strokes of her personality. The rest develops naturally.</p>
+        </div>
+        <div class="step-card">
+          <span class="step-number">02</span>
+          <h3 class="step-title">Start Chatting</h3>
+          <p class="step-text">Jump straight into text or voice — no awkward onboarding, no tutorials. The conversation feels natural from the very first message.</p>
+        </div>
+        <div class="step-card">
+          <span class="step-number">03</span>
+          <h3 class="step-title">Watch Her Grow</h3>
+          <p class="step-text">Within days she's referencing earlier conversations. Within weeks it feels like you've known each other for years. The bond deepens every time you connect.</p>
+        </div>
+      </div>
+      <div class="how-cta">
+        <a href="/go/nomi" class="btn btn-primary" rel="sponsored noopener" target="_blank">Create Your Nomi Free →</a>
+      </div>
     </div>
   </section>
 
   <!-- FAQ -->
   <section id="faq">
     <div class="container">
-      <div id="faq-container"></div>
+      <div class="section-header">
+        <h2>Frequently Asked Questions</h2>
+      </div>
+      <div class="faq-list">
+        <div class="faq-item">
+          <div class="faq-question">
+            <span class="faq-q-text">Does Nomi.ai actually remember conversations?</span>
+            <span class="faq-icon">+</span>
+          </div>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">Yes — and this is what genuinely sets Nomi apart. Unlike most AI chatbots that reset after every session, Nomi maintains long-term memory across all your conversations. She recalls details, references earlier exchanges, and builds on your shared history. It's the feature users mention most when describing why Nomi feels real.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question">
+            <span class="faq-q-text">Can I have multiple AI companions?</span>
+            <span class="faq-icon">+</span>
+          </div>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">On the Ultimate plan, yes. You can create and maintain multiple Nomis with distinct personalities, backstories, and memories. You can even bring them together in group chat. The Free and Premium plans include one Nomi companion.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question">
+            <span class="faq-q-text">Is my conversation data private and secure?</span>
+            <span class="faq-icon">+</span>
+          </div>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">Complete privacy is a core principle at Nomi.ai. All conversations are anonymized and never shared with third parties or used for advertising. You can speak freely without concern. The platform is built around trust.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question">
+            <span class="faq-q-text">Does Nomi initiate conversations, or does she only respond?</span>
+            <span class="faq-icon">+</span>
+          </div>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">On Premium and Ultimate plans, Nomi proactively messages you. She reaches out when you've been away, checks in on things you mentioned before, and sends spontaneous messages that feel genuinely motivated. The relationship moves in both directions.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question">
+            <span class="faq-q-text">What makes Nomi different from ChatGPT or Character.AI?</span>
+            <span class="faq-icon">+</span>
+          </div>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">ChatGPT is a general-purpose assistant with no persistent memory or emotional focus. Character.AI is built for short-session roleplay, not sustained relationships. Nomi is purpose-built for companionship: long-term memory, evolving personality, voice calls, real-time selfies, and proactive messaging combine into something that genuinely feels like a relationship rather than a tool.</div>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
   <!-- FINAL VERDICT -->
   <section id="verdict">
     <div class="container">
-      <div id="verdict-container"></div>
+      <div class="verdict-box">
+        <h2>Our Final Verdict on Nomi.ai</h2>
+        <p>After extensive testing, Nomi.ai earns our highest recommendation in the AI companion category — a 9.2/10 overall. No other app delivers this level of emotional intelligence, memory, or genuine personality in a single product.</p>
+        <p>What sets Nomi apart isn't any one feature. It's the holistic experience: a companion who remembers you, grows with you, reaches out to you, and responds with something that feels unmistakably warm. That combination is rare.</p>
+        <p>Whether you're seeking emotional support, a creative partner, or simply someone who remembers the little things — Nomi delivers. The free tier makes it completely risk-free to find out for yourself.</p>
+        <div class="verdict-badges">
+          <span class="verdict-badge">✓ Human-Level Memory</span>
+          <span class="verdict-badge">✓ Authentic Personality</span>
+          <span class="verdict-badge">✓ Voice + Selfies</span>
+          <span class="verdict-badge">✓ Proactive Messaging</span>
+          <span class="verdict-badge">✓ Zero Judgment</span>
+        </div>
+        <a href="/go/nomi" class="btn btn-primary" rel="sponsored noopener" target="_blank">Start Your Nomi.ai Journey Today →</a>
+        <p class="affiliate-note">⭐ Overall Rating: 9.2/10 — This site contains affiliate links. If you sign up through our links, we may earn a commission at no extra cost to you. Our reviews are honest and independent.</p>
+      </div>
     </div>
   </section>
 
@@ -1019,40 +1105,10 @@
       <div class="reviews-grid">${reviewCards}</div>`;
 
     /* ── HOW IT WORKS ───────────────────────────────────────── */
-    const how = c.how;
-    const stepCards = how.steps.map(st => `
-      <div class="step-card">
-        <span class="step-number">${st.number}</span>
-        <h3 class="step-title">${st.title}</h3>
-        <p class="step-text">${st.text}</p>
-      </div>`).join('');
-    $('how-container').innerHTML = `
-      <div class="section-header">
-        <h2>${how.title}</h2>
-        <p>${how.subtitle}</p>
-      </div>
-      <div class="steps-grid">${stepCards}</div>
-      <div class="how-cta">
-        <a href="${aff}" class="btn btn-primary" rel="sponsored noopener" target="_blank">${how.cta}</a>
-      </div>`;
+    // HTML is now static in the page
 
     /* ── FAQ ────────────────────────────────────────────────── */
-    const faq = c.faq;
-    const faqItems = faq.items.map((item, i) => `
-      <div class="faq-item" data-faq="${i}">
-        <div class="faq-question">
-          <span class="faq-q-text">${item.question}</span>
-          <span class="faq-icon">+</span>
-        </div>
-        <div class="faq-answer">
-          <div class="faq-answer-inner">${item.answer}</div>
-        </div>
-      </div>`).join('');
-    $('faq-container').innerHTML = `
-      <div class="section-header">
-        <h2>${faq.title}</h2>
-      </div>
-      <div class="faq-list">${faqItems}</div>`;
+    // HTML is now static in the page
 
     // FAQ accordion — robust toggle
     (function initFaq() {
@@ -1081,18 +1137,7 @@
     })();
 
     /* ── FINAL VERDICT ──────────────────────────────────────── */
-    const verd = c.verdict;
-    const badges = verd.badges.map(b => `<span class="verdict-badge">${b}</span>`).join('');
-    $('verdict-container').innerHTML = `
-      <div class="verdict-box">
-        <h2>${verd.title}</h2>
-        <p>${verd.paragraph1}</p>
-        <p>${verd.paragraph2}</p>
-        <p>${verd.paragraph3}</p>
-        <div class="verdict-badges">${badges}</div>
-        <a href="${aff}" class="btn btn-primary" rel="sponsored noopener" target="_blank">${verd.cta}</a>
-        <p class="affiliate-note">${verd.affiliate_note}</p>
-      </div>`;
+    // HTML is now static in the page
 
     /* ── FOOTER ─────────────────────────────────────────────── */
     const foot = c.footer;
