@@ -1043,8 +1043,10 @@
       <div class="faq-list">${faqItems}</div>`;
 
     // FAQ accordion behaviour
-    document.querySelectorAll('.faq-question').forEach(q => {
+    console.log('FAQ items found:', document.querySelectorAll('.faq-question').length);
+    document.querySelectorAll('.faq-question').forEach((q, i) => {
       q.addEventListener('click', () => {
+        console.log('FAQ clicked:', i);
         const item = q.closest('.faq-item');
         const isOpen = item.classList.contains('open');
         document.querySelectorAll('.faq-item.open').forEach(o => o.classList.remove('open'));
