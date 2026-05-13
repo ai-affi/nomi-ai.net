@@ -567,13 +567,12 @@
     .faq-answer {
       max-height: 0;
       overflow: hidden;
-      transition: max-height .35s ease;
+      transition: max-height .35s ease, opacity .35s ease;
       opacity: 0;
     }
     .faq-item.open .faq-answer { 
       max-height: 500px; 
       opacity: 1;
-      transition: max-height .35s ease, opacity .35s ease;
     }
     .faq-answer-inner {
       padding: 0 1.5rem;
@@ -1057,11 +1056,14 @@
     // FAQ accordion behaviour
     console.log('FAQ items found:', document.querySelectorAll('.faq-question').length);
     document.querySelectorAll('.faq-question').forEach((q, i) => {
-      q.addEventListener('click', () => {
+      q.addEventListener('click', (e) => {
+        e.stopPropagation();
         console.log('FAQ clicked:', i);
         const item = q.closest('.faq-item');
         const isOpen = item.classList.contains('open');
+        // Ferme tous les items ouverts
         document.querySelectorAll('.faq-item.open').forEach(o => o.classList.remove('open'));
+        // Ouvre l'item cliqué s'il était fermé
         if (!isOpen) item.classList.add('open');
       });
     });
