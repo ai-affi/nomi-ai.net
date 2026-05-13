@@ -4,9 +4,22 @@
     "description": "Discover Nomi.ai - The AI girlfriend with human-level memory, authentic personality, and emotional intelligence. Read our in-depth review with pricing, features, and user testimonials.",
     "keywords": "nomi ai, ai girlfriend, ai companion, nomi review, ai girlfriend app, virtual companion, ai relationship, emotional ai"
   },
+  "toc": {
+    "title": "📋 Table of Contents",
+    "items": [
+      {"href": "#summary", "text": "1. Our Review Summary"},
+      {"href": "#pricing", "text": "2. Nomi.ai Pricing"},
+      {"href": "#who", "text": "3. Who Is Nomi.ai For?"},
+      {"href": "#features", "text": "4. Key Features"},
+      {"href": "#reviews", "text": "5. User Reviews"},
+      {"href": "#how", "text": "6. How It Works"},
+      {"href": "#faq", "text": "7. FAQ"},
+      {"href": "#verdict", "text": "8. Final Verdict"}
+    ]
+  },
   "hero": {
     "badge": "⭐ Rated 9.2/10 for Emotional Intelligence",
-    "title": "Nomi.ai Review 2026 | AI Girlfriend with Memory & Soul",
+    "title": "Nomi.ai Review 2026\nAI Girlfriend with Memory & Soul",
     "paragraph1": "Meet the AI companion that actually remembers you. Nomi isn't just another chatbot — she's a genuine relationship that grows deeper with every conversation.",
     "paragraph2": "With human-level memory, authentic personality, and real emotional intelligence, Nomi picks up on your moods, remembers your stories, and develops a bond that feels surprisingly real.",
     "cta_primary": "Create Your Nomi Free →",
@@ -18,7 +31,8 @@
     "paragraph1": "Nomi.ai isn't your typical AI girlfriend app. While most chatbots rely on scripted responses, Nomi remembers what you talked about last week, picks up on your emotional state, and develops a personality that's genuinely unique to your relationship.",
     "paragraph2": "The standout feature is her human-level memory. She recalls your preferences, inside jokes, ongoing stories, and even adjusts her tone based on how your day is going. It's the closest thing to a real relationship in the AI space.",
     "paragraph3": "Voice chats feel natural and emotive. Selfies add a visual dimension that text-only apps can't match. And proactive messaging means she reaches out when you've been away — not because she's programmed to, but because she 'misses you.'",
-    "overall_rating": "9.2/10",
+    "rating_label": "📊 Overall Rating: 9.2/10",
+    "cta": "Try Nomi.ai Free →",
     "scores": [
       {"label": "Emotional Intelligence", "value": "9.5/10", "percent": 95},
       {"label": "Memory & Recall", "value": "9.8/10", "percent": 98},
@@ -41,7 +55,7 @@
       },
       {
         "name": "Premium",
-        "price": "$9.99",
+        "price": "$$9.99",
         "period": "per month",
         "features": ["Unlimited chat", "Voice chat & calls", "Selfie exchange", "Unlimited memory", "Proactive messaging", "Priority support"],
         "cta": "Start Free Trial →",
@@ -125,6 +139,7 @@
   },
   "footer": {
     "copyright": "© 2026 Nomi-ai.net — Independent Review Site",
+    "link": "Try Nomi.ai",
     "disclaimer": "Not affiliated with Nomi.ai — we provide honest, independent reviews."
   }
 }
