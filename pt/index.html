@@ -154,8 +154,14 @@
     .footer-copyright { font-size: .85rem; color: var(--text-muted); margin-bottom: .5rem; }
     .footer-disclaimer { font-size: .8rem; color: var(--border); }
     footer a { font-size: .85rem; }
+    /* LANG SELECTOR */
+    .lang-selector { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem .6rem; margin: 1.5rem 0; padding: 1rem 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+    .lang-label { font-size: 1rem; margin-right: .5rem; }
+    .lang-link { font-size: .8rem; color: var(--text-muted); padding: .25rem .6rem; border-radius: var(--radius-sm); border: 1px solid var(--border); transition: all var(--transition); }
+    .lang-link:hover { color: var(--primary); border-color: var(--primary); background: rgba(139,92,246,.1); }
+    .lang-active { font-size: .8rem; color: var(--text); padding: .25rem .6rem; border-radius: var(--radius-sm); border: 1px solid var(--primary); background: rgba(139,92,246,.15); font-weight: 600; }
     @media (max-width: 1024px) { .characters-grid { grid-template-columns: repeat(2, 1fr); } .pricing-grid { grid-template-columns: repeat(2, 1fr); } .who-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (max-width: 768px) { h1 { font-size: 2rem; } h2 { font-size: 1.6rem; } section { padding: 3rem 0; } .hero-cta { flex-direction: column; align-items: flex-start; } .hero-cta .btn { width: 100%; text-align: center; } .summary-grid { grid-template-columns: 1fr; gap: 2rem; } .characters-grid { grid-template-columns: 1fr; } .comparison-table { font-size: .8rem; } .comparison-table th, .comparison-table td { padding: .7rem .75rem; } .pricing-grid { grid-template-columns: 1fr; } .who-grid { grid-template-columns: 1fr; } .features-grid { grid-template-columns: 1fr; } .reviews-grid { grid-template-columns: 1fr; } .review-card.featured-review { grid-column: span 1; } .steps-grid { grid-template-columns: 1fr; } .verdict-box { padding: 2rem 1.5rem; } .toc-inner { flex-direction: column; align-items: flex-start; } }
+    @media (max-width: 768px) { h1 { font-size: 2rem; } h2 { font-size: 1.6rem; } section { padding: 3rem 0; } .hero-cta { flex-direction: column; align-items: flex-start; } .hero-cta .btn { width: 100%; text-align: center; } .summary-grid { grid-template-columns: 1fr; gap: 2rem; } .characters-grid { grid-template-columns: 1fr; } .comparison-table { font-size: .8rem; } .comparison-table th, .comparison-table td { padding: .7rem .75rem; } .pricing-grid { grid-template-columns: 1fr; } .who-grid { grid-template-columns: 1fr; } .features-grid { grid-template-columns: 1fr; } .reviews-grid { grid-template-columns: 1fr; } .review-card.featured-review { grid-column: span 1; } .steps-grid { grid-template-columns: 1fr; } .verdict-box { padding: 2rem 1.5rem; } .toc-inner { flex-direction: column; align-items: flex-start; } .lang-selector { gap: .3rem .4rem; } }
   </style>
 </head>
 <body>
@@ -690,6 +696,21 @@
 
   <footer>
     <div class="container">
+      <div class="lang-selector">
+        <span class="lang-label">🌐</span>
+        <a href="../" class="lang-link" hreflang="en">English</a>
+        <a href="../fr/" class="lang-link" hreflang="fr">Français</a>
+        <a href="../de/" class="lang-link" hreflang="de">Deutsch</a>
+        <a href="../es/" class="lang-link" hreflang="es">Español</a>
+        <a href="../it/" class="lang-link" hreflang="it">Italiano</a>
+        <span class="lang-active">Português</span>
+        <a href="../nl/" class="lang-link" hreflang="nl">Nederlands</a>
+        <a href="../pl/" class="lang-link" hreflang="pl">Polski</a>
+        <a href="../tr/" class="lang-link" hreflang="tr">Türkçe</a>
+        <a href="../ru/" class="lang-link" hreflang="ru">Русский</a>
+        <a href="../ja/" class="lang-link" hreflang="ja">日本語</a>
+        <a href="../ko/" class="lang-link" hreflang="ko">한국어</a>
+      </div>
       <p class="footer-copyright">
         © 2026 Nomi-ai.net — Site de Análises Independente — <a href="/go/nomi" rel="sponsored noopener" target="_blank">Experimente a Nomi.ai</a>
       </p>
